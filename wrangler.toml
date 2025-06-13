@@ -1,5 +1,5 @@
 # wrangler.toml
-name = "astro-xwnav-theme"
+name = "navigation-station"
 compatibility_date = "2025-06-11"
 
 [assets]
